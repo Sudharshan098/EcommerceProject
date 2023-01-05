@@ -1,5 +1,5 @@
-# eComerceX
-## Tech Stack
+# eCommerce
+## Tech Stack Used
 
 * Java
 * Spring Framework
